@@ -1,6 +1,6 @@
 # Simple chat app to create your own groups
 
-Built usin Create React App
+Built using Create React App
 
 # Getting Started with this project
 
